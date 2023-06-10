@@ -1,4 +1,4 @@
-@SpringBootConfiguration
+@SpringBootApplication
 public Test{
   
   String date;
