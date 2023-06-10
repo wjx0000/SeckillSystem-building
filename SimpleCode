@@ -1,0 +1,7 @@
+@SpringBootConfiguration
+public Test{
+  
+  String date;
+  String aim;
+
+}
